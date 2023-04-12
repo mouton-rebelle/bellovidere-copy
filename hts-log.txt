@@ -1,0 +1,22 @@
+HTTrack3.49-2 launched on Wed, 12 Apr 2023 11:57:35 at http://lebellovidere.net/
+(winhttrack http://lebellovidere.net/ -O "/Volumes/web/lebellovidere-static/lebelo" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:59:06	Error: 	"Not Found" (404) at link lebellovidere.net/medias/img/apple-touch-icon.png (from lebellovidere.net/)
+11:59:06	Error: 	"Not Found" (404) at link lebellovidere.net/medias/img/apple-touch-icon-72x72.png (from lebellovidere.net/)
+11:59:06	Error: 	"Not Found" (404) at link lebellovidere.net/medias/img/apple-touch-icon-114x114.png (from lebellovidere.net/)
+13:26:58	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/IMG/arton136.jpg?1461484083 (from lebellovidere.net/-Le-programme-.html)
+13:27:05	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/IMG/arton129.jpg?1453651363 (from lebellovidere.net/-Le-programme-.html)
+13:27:05	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/local/cache-gd2/4d125090d45c8ca49bddf32213bf9086.jpg (from lebellovidere.net/-Le-programme-.html)
+13:27:06	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/Patrick-Ingueneau.html (from lebellovidere.net/-Le-programme-.html)
+13:45:12	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/IMG/rubon18.jpg?1349000556 (from lebellovidere.net/-Le-programme-.html)
+13:45:55	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/IMG/arton68.jpg?1349002289 (from lebellovidere.net/-Le-programme-.html)
+13:46:42	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/IMG/arton69.jpg?1349002323 (from lebellovidere.net/-Le-programme-.html)
+13:46:51	Warning: 	Retry after error -2 (Receive Time Out) at link lebellovidere.net/local/cache-gd2/01ff432a7695c65a05bba543de410d08.jpg (from lebellovidere.net/-Le-programme-.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 32 minutes 17 seconds : 2439 links scanned, 2427 files written (140848743 bytes overall) [139425193 bytes received at 15259 bytes/sec], 3973962 bytes transferred using HTTP compression in 225 files, ratio 43%, 4.2 requests per connection
+(3 errors, 8 warnings, 0 messages)
